@@ -208,7 +208,7 @@ activityViewController.completionHandler = ^(NSString * __nullable activityType,
 
 ```
 
-下载Demo
+[下载Demo](https://github.com/keleyundou/SocialActivityDemo)
 
 ---
 
