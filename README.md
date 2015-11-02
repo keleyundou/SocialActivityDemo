@@ -214,7 +214,8 @@ activityViewController.completionHandler = ^(NSString * __nullable activityType,
 ---
 
 参考链接：
-1. [研究 UIActivityViewController](https://github.com/nixzhu/dev-blog/blob/master/2014-04-22-ui-activity-viewcontroller.md)
+
+1. [研究 UIActivityViewController](https://github.com/nixzhu/dev-blog/blob/master/2014-04-22-ui-activity-viewcontroller.md)<br/>
 2. [UIActivityViewController的使用](http://www.jianshu.com/p/9de528d96466)
 
 ---
