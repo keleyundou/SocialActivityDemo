@@ -1,5 +1,4 @@
 # 初探SocialFramework和UIActivityViewController
----
 
 ## UIActivityViewController
 
